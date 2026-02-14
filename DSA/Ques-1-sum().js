@@ -20,5 +20,5 @@ module.exports = sum;
 /**
  Learning - 
     1. How to use reduce function?
-    2. How to use rest operator inside fucntion? - Here we can use args as an array.
+    2. How to use rest operator inside function? - Here we can use args as an array.
   **/
